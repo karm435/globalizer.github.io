@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://receiptsco.app/globalizer.github.io/AppsMan.dmg" length="17569125" type="application/octet-stream" sparkle:edSignature="pftBuPKzZcon2Vvtt9VUosnoNkI8Nk7uyxNYvecuDt2F3Nmr519nWNOkzyRUZxSF/Gdq1UViuTtmj91m0UmNCA=="/>
+            <enclosure url="https://github.com/karm435/globalizer.github.io/releases/download/1.0.0/AppsMan.dmg" length="17569125" type="application/octet-stream" sparkle:edSignature="pftBuPKzZcon2Vvtt9VUosnoNkI8Nk7uyxNYvecuDt2F3Nmr519nWNOkzyRUZxSF/Gdq1UViuTtmj91m0UmNCA=="/>
         </item>
     </channel>
 </rss>

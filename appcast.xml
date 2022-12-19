@@ -4,11 +4,11 @@
         <title>AppsMan</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Tue, 20 Dec 2022 00:17:43 +1000</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Tue, 20 Dec 2022 00:42:25 +1000</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://receiptsco.app/globalizer.github.io/AppsMan.dmg" length="17569062" type="application/octet-stream" sparkle:edSignature="zYqCAJb746h+nP7uDyNtppCLefYMv841a3ij6dcc1P1yZx8TnufbSSjocAJi9Lg3arRxmxQvs2IjznfZKAxuBg=="/>
+            <enclosure url="https://receiptsco.app/globalizer.github.io/rw.AppsMan.dmg" length="74487808" type="application/octet-stream" sparkle:edSignature="ISO800qF/nYZFGABOfV63/XC24PNFgdSYz5A/ErBOh866IobqXvYh3+CggZowut8KZ/eXIRG69AKAqCpTPeYBg=="/>
         </item>
     </channel>
 </rss>

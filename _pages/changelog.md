@@ -19,8 +19,8 @@ Upcoming Features:
 3. Create Appstore assets for your apps. 
 
 
-• Privacy policy: https://receiptsco.app/privacypolicy/
-• Terms of use: https://receiptsco.app/termsofuse/
+• Privacy policy: https://receiptsco.app/globalizer.github.io/privacypolicy/
+• Terms of use: https://receiptsco.app/globalizer.github.io/termsofuse/
 
 <br>
 
